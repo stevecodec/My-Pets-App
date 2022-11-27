@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!--NOTE: i have given the group different ids so that they can
+    automatically be split into different layers-->
+
+    <group android:id="@+id/grp1" android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_my_pets"
+            android:icon="@drawable/ic_pets"
+            android:title="@string/my_pets"/>
+
+    </group>
+
+    <group android:id="@+id/grp2" android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="@string/share"
+            />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info"
+            android:title="@string/about"
+            />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/exit"
+            />
+    </group>
+</menu>

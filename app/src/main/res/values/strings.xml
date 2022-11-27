@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pets.io</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="my_pets">My Pets</string>
+    <string name="about">About</string>
+
+    <!--    google ads info-->
+    <string name="ad_publisher_id">pub-1510952208154426</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="share">Share</string>
+    <string name="exit">Exit</string>
+    <string name="banner_msg">Let\'s take care of your cutie pets!</string>
+</resources>
